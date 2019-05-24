@@ -5,6 +5,7 @@ This is a simple Todo application built off Django (including the Django REST Fr
 ## Requirements
 * Python3
 * Pipenv
+* npm
 
 ## Getting started
 1. Clone the project to your machine ```[git clone https://github.com/Jordanirabor/django-todo-react]```
